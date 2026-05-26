@@ -26,6 +26,8 @@ To install this skill in your Gemini CLI:
     /skills reload
     ```
 
+**Or just tell it to this simple message : I want to use EfeAtesh/humanizer-GeminiCLI github repo with you.**
+
 ## How to Use
 
 Once installed and reloaded, the skill will automatically trigger when you ask Gemini to "humanize" or "rewrite" text.
