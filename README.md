@@ -26,7 +26,7 @@ To install this skill in your Gemini CLI:
     /skills reload
     ```
 
-**Or just tell it to this simple message : I want to use EfeAtesh/humanizer-GeminiCLI github repo with you.**
+**Or just tell it this simple message : I want to use EfeAtesh/humanizer-GeminiCLI github repo with you.**
 
 ## How to Use
 
