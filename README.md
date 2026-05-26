@@ -1,7 +1,6 @@
 # Humanizer
 
-A skill for Claude Code and OpenCode that removes signs of AI-generated writing from text, making it sound more natural and human.
-
+Hate your shallow work. Well automate it with AI
 ## Installation
 
 ### Claude Code
